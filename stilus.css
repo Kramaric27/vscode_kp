@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+body {
+    color: white;
+}
+h2 {
+    color: pink;
+    font-size: 18pt;
+}
+body {
+    font-size: 12pt;
+}
+  #scottish{
+    background-color: green;
+    color: blueviolet;
+  }
+  #savannah{
+    background-color: pink;
+    color: yellow;
+  }
+  #bengali{
+    background-color: red;
+    color: wheat;
+  }
+
+
+
